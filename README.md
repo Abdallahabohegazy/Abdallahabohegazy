@@ -1,12 +1,11 @@
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  alt="coding"/>
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Abdallah Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-
-
-
-  <p align="center">
-<img src="[[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0https://user-images.githubusercontent.com/108573409/236907026-a570d6be-0a57-43a1-a1e5-d028b5baf682.gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"  alt="coding"/>
-</p>
 
 
   
