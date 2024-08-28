@@ -1,13 +1,13 @@
-  <p align="center">
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  alt="coding"/>
-</p>
+
 
 
 
 <h1 align="center">Hi 👋, I'm Abdallah Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  width="400px" alt="coding"/>
+</p>
   
 - 🎓I am a student in the Faculty of Engineering, Software Engineering Department
 
