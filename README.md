@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdallah Mohamed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineering from Egypt</h3>
 
   <p align="center">
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  width="400px" alt="coding"/>
@@ -8,11 +8,11 @@
   
 - 🎓I am a student in the Faculty of Engineering, Software Engineering Department
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **node.js**
 
 - 💬 Ask me about **React , JS , C++ , c#**
 
-- 📫 How to reach me **abdohegazy2468@gmail.com**
+- 📫 How to reach me **abdallahabohegazy57@gmail.com**
 
 
 
