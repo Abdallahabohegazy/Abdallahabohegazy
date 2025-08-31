@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 💬 Ask me about **React , JS , C++ , c# , Python**
+- 💬 Ask me about **React , JS , C++ , c# **
 
 - 📫 How to reach me **abdallahabohegazy57@gmail.com**
 
