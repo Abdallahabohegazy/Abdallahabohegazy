@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Mohamed</h1>
-<h3 align="center">A passionate Software Engineering student from Egypt</h3>
+<h3 align="center">Software Engineering Student & Junior Frontend / MERN Developer from Egypt</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"
@@ -9,10 +9,12 @@
 
 ---
 
-- 🎓 I am a student in the Faculty of Engineering, Software Engineering Department  
-- 🌱 I’m currently learning **Node.js & Backend Development**  
+- 🎓 Student at Faculty of Engineering, Software Engineering Department  
+- 🌱 Currently learning **Node.js & Backend Development**  
 - 💬 Ask me about **React, JavaScript, Node.js, C++, C#**  
-- 📫 How to reach me: **abdallahabohegazy57@gmail.com**
+- 🌐 Portfolio:  
+  👉 **https://my-portofolio-ilh07g2t1-abdallah-mohameds-projects-c84f7c44.vercel.app/**  
+- 📫 Email: **abdallahabohegazy57@gmail.com**
 
 ---
 
@@ -35,6 +37,13 @@
   <a href="https://www.instagram.com/abdohegazzzy/" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://wa.me/201028797129" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
          height="30"
          width="40" />
   </a>
