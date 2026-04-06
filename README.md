@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Mohamed</h1>
-<h3 align="center">Software Engineering Student & Junior Frontend / MERN Stack Developer from Egypt</h3>
+<h3 align="center">Software Engineering Student / MERN Stack Developer from Egypt</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"
