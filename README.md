@@ -12,7 +12,7 @@
 - 🎓 Student at Faculty of Engineering, Software Engineering Department  
 - 🌱 Currently learning **Node.js & Backend Development**  
 - 💬 Ask me about **React, JavaScript, Node.js, C++, C#**  
-- 🌐 <b>Portfolio:</b> <a href="https://example.com](https://my-portofolio-olive-alpha.vercel.app/" target="_blank" style="text-decoration: none;">
+- 🌐 <b>Portfolio:</b> <a href="https://my-portofolio-olive-alpha.vercel.app/" target="_blank" style="text-decoration: none;">
   View My Portfolio 🚀
 </a>
 - 📫 Email: **abdallahabohegazy57@gmail.com**
